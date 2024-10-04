@@ -11,6 +11,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=phtavaresleite&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p> --->
 
+<div align='center'>
+ 
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
 <!-- ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; -->
@@ -24,11 +26,12 @@
 ### Studying in this moment:
 ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp;
 ![Postgresql](https://img.shields.io/badge/-Postgresql-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
+</div>
 
-  <div align="center">
+  <!----<div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{phtavaresleite}/count.svg" /></p> 
-<br></div>
+<br></div> --->
 
 <div align="center">  
 <a target="_blank" href="https://www.linkedin.com/in/ph-tavaresleite/"><img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white"</a>
