@@ -12,6 +12,10 @@
 </p> --->
 
 <div align='center'>
+
+<div align="center">  
+<a target="_blank" href="https://www.linkedin.com/in/ph-tavaresleite/"><img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white"</a>
+</div>
  
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
@@ -32,11 +36,6 @@
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{phtavaresleite}/count.svg" /></p> 
 <br></div> --->
-
-<div align="center">  
-<a target="_blank" href="https://www.linkedin.com/in/ph-tavaresleite/"><img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white"</a>
-</div>
-
-  
+ 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
